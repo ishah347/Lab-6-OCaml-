@@ -1,12 +1,5 @@
 
-## lab6
+## Lazy-Programming-and-Infinite-Data-Structures-OCaml
 
-Before you start working, add the extra remote repository for lab6. To do so, run:
-
-`git remote add distribution git@github.com:cs51/lab6.git`
-
-To check for updates, run:
-
-`git pull distribution master`
-
-You should run this periodically to check for updates.
+Practice with delayed (lazy) computations, both
+through user code and OCaml's built in Lazy module.
